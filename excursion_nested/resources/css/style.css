@@ -4,12 +4,11 @@ body {
   text-align: center;
   font-family: Verdana, sans-serif;
 }
-.topmost-header h1 {
+#discover {
   font-weight: 400;
   font-size: 50px;
 }
-.middle h1,
-.bottom h1 {
+h1 {
   font-weight: 300;
   font-size: 42px;  
 }
