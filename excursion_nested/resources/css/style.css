@@ -1,14 +1,15 @@
 body {
   background-color: black;
-  color: white;
   text-align: center;
   font-family: Verdana, sans-serif;
 }
 #discover {
+  color: white;
   font-weight: 400;
   font-size: 50px;
 }
 h1 {
+  color: white;
   font-weight: 300;
   font-size: 42px;  
 }
